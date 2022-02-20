@@ -1,0 +1,156 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Sebastian",
+      "username": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": 2,
+      "name": "Steve",
+      "username": "Palmer",
+      "email": "steve@codingthesmartway.com",
+      "phone": "5551234"
+    },
+    {
+      "id": 3,
+      "name": "Ann",
+      "username": "Smith",
+      "email": "ann@codingthesmartway.com",
+      "phone": ""
+    },
+    {
+      "name": "",
+      "username": "",
+      "email": "",
+      "phone": "",
+      "id": 4
+    },
+    {
+      "name": "Claudiu",
+      "username": "Klaw",
+      "email": "klaw@klaw.com",
+      "phone": "1234567890",
+      "id": 5
+    },
+    {
+      "name": "Claudiu",
+      "username": "Klaw",
+      "email": "klaw@klaw.com",
+      "phone": "1234567890",
+      "id": 6
+    },
+    {
+      "name": "Claudiu",
+      "username": "Klaw",
+      "email": "klaw@klaw.com",
+      "phone": "1234567890",
+      "id": 7
+    },
+    {
+      "name": "Claudiu",
+      "username": "Klaw",
+      "email": "klaw@klaw.com",
+      "phone": "1234567890",
+      "id": 8
+    },
+    {
+      "name": "Claudiu",
+      "username": "Klaw",
+      "email": "klaw@klaw.com",
+      "phone": "1234567890",
+      "id": 9
+    },
+    {
+      "name": "Claudiu",
+      "username": "Klaw",
+      "email": "klaw@klaw.com",
+      "phone": "1234567890",
+      "id": 10
+    },
+    {
+      "name": "Claudiu",
+      "username": "Klaw",
+      "email": "klaw@klaw.com",
+      "phone": "1234567890",
+      "id": 12
+    },
+    {
+      "name": "Claudiu",
+      "username": "Klaw",
+      "email": "klaw@klaw.com",
+      "phone": "1234567890",
+      "id": 13
+    },
+    {
+      "name": "asdas",
+      "username": "sadsa",
+      "email": "asdsad",
+      "phone": "asdad",
+      "id": 14
+    },
+    {
+      "id": 15
+    },
+    {
+      "name": "Aylaa",
+      "username": "Ayla",
+      "email": "Ayla@Ayla.com",
+      "phone": "Ayla",
+      "id": 16
+    },
+    {
+      "id": 17
+    },
+    {
+      "id": 18
+    },
+    {
+      "id": 19
+    },
+    {
+      "id": 20
+    },
+    {
+      "id": 21
+    },
+    {
+      "id": 22
+    },
+    {
+      "id": 23
+    },
+    {
+      "id": 24
+    },
+    {
+      "id": 25
+    },
+    {
+      "id": 26
+    },
+    {
+      "id": 27
+    },
+    {
+      "id": 28
+    },
+    {
+      "id": 29
+    },
+    {
+      "id": 30
+    },
+    {
+      "id": 31
+    },
+    {
+      "id": 32
+    },
+    {
+      "id": 33
+    }
+  ]
+}
